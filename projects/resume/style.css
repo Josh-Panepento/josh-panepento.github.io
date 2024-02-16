@@ -1,0 +1,43 @@
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 4em;
+    text-transform: capitalize;
+}
+
+body {
+    background-color: antiquewhite;
+    margin: 1in;
+    padding-top: 4px;
+    letter-spacing: normal;
+}
+
+header {
+    color: black;
+    letter-spacing: normal;
+}
+
+h3 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-top: 50px;
+}
+
+h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-top: 30px;
+}
+
+h4 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+a {
+    color: darkslategray;
+}
