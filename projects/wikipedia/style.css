@@ -1,0 +1,32 @@
+img {
+    width: 100%;
+    margin: 0 0 0em 0;
+}
+
+h1 {
+    font-family: "poppins", sans-serif;
+    font-size: 3em;
+    text-align:center
+}
+
+body {
+    background-color: #FFF0D7;
+}
+
+.titles {
+    line-height: 1.2;
+    font-size: .85em;
+    background-color: #ffa16e;
+    margin: 2em 0;
+    padding: 2em;
+}
+
+h2 {
+    background-color: #ffffff;
+    display: inline;
+    padding: 1px 35px 1px 5px;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
