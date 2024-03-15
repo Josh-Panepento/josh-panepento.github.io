@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    background-color: #d9e4ec;
+}
+
+header h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #385e72;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #385e72;
+}
+
+body p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #385e72;
+}
+
+body img {
+    width: 100%;
+    max-width: 200px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+footer {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
