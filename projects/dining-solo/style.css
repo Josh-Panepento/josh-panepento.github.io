@@ -1,0 +1,66 @@
+h1 {
+    font-size: 8em;
+    color: #FAFCEF;
+    font-family: "Italiana", sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 30% 5%;
+    min-height: 100vh;
+    text-shadow: 5px 5px 10px #5D5E4F;
+    background-image: url('/Users/joshpanepento/Documents/github-2024/GitHub/josh-panepento.github.io/projects/dining-solo/images/restaurant.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-size: 1.1em;
+    color: #FAFCEF;
+    font-family: "Abel", sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.1em;
+    color: #FAFCEF;
+    font-family: "Abel", sans-serif;
+    text-align: center;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    background-color: #0C0E0C;
+}
+
+.container {
+    width: 55%;
+}
+
+p {
+    font-family: "Abel", sans-serif;
+    font-size: 1.2em;
+}
+
+footer {
+    background-color: #F9F1E5;
+    padding: 5% 25%;
+}
+
+a {
+    color: #E18D58;
+}
+
+.container1 {
+    color: #FAFCEF;
+    padding: 5% 5%;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.container2 {
+    color: #0C0E0C;
+    background-color: #F9F1E5;
+}
