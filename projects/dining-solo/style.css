@@ -54,7 +54,7 @@ a {
 
 .container1 {
     color: #FAFCEF;
-    padding: 5% 5%;
+    padding: 5% 15%;
     font-family: "Roboto";
     font-size: 16px;
     line-height: 1.7;
@@ -63,4 +63,43 @@ a {
 .container2 {
     color: #0C0E0C;
     background-color: #F9F1E5;
+    padding: 15% 5%;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 1.7;
+    text-align: center;
+}
+
+.container3 {
+    color: #FAFCEF;
+    padding: 5% 20%;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.container4 {
+    color: #0C0E0C;
+    background-color: #F9F1E5;
+    padding: 5% 5%;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 1.7;
+    text-align: center;
+}
+
+.container5 {
+    color: #FAFCEF;
+    padding: 5% 5%;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.container img {
+    float: left;
+}
+
+.float-right {
+    float: right;
 }
