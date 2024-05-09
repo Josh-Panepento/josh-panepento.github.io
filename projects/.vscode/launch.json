@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/joshpanepento/Documents/github-2024/GitHub/josh-panepento.github.io/projects/dining-solo/index.html"
+            "file": "/Users/joshpanepento/Documents/github-2024/GitHub/josh-panepento.github.io/projects/final/index.html"
         }
     ]
 }
