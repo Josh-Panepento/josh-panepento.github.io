@@ -1,12 +1,18 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    background-color: #b2707c;
+}
+
 header {
     height: 100vh;
-    background-image: url('/Users/joshpanepento/Documents/github-2024/GitHub/josh-panepento.github.io/projects/final/MDlacrosse.jpg');
+    background-image: url('../images/MDlacrosse.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
     font-size: 1.1em;
     color: #FAFCEF;
-    font-family: "Lato", sans-serif;
     text-align: center;
     background-position: center center;
     background-attachment: fixed;
@@ -21,7 +27,6 @@ header {
 h1 {
     font-size: 5em;
     color: #FAFCEF;
-    font-family: "Lato", sans-serif;
     text-align: center;
     padding: 5px;
 }
@@ -29,21 +34,18 @@ h1 {
 h2 {
     font-size: 1.1em;
     color: #FAFCEF;
-    font-family: "Lato", sans-serif;
     text-align: center;
 }
 
-body {
-    font-family: "Lato", sans-serif;
-    font-size: 16px;
-    line-height: 1.7;
-    background-color: #b2707c;
+img {
+    max-width: 1000px;
+    display: block;
+    margin: 0 auto;
 }
 
 .container1 {
     color: #FAFCEF;
     padding: 3% 5%;
-    font-family: "Lato";
     font-size: 16px;
     line-height: 1.7;
     justify-content: center;
@@ -54,7 +56,6 @@ body {
     color: #0C0E0C;
     background-color: #F9F1E5;
     padding: 3% 5%;
-    font-family: "Lato";
     font-size: 16px;
     line-height: 1.7;
 }
